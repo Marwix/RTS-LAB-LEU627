@@ -8,7 +8,7 @@ It will play the song "Brother Jacob" on speakers according to the original lab 
 
 # Participation
 
-I was part of the group who created this lab assignment code in the programming language C. 
+I was part of the group who created this lab assignment in the programming language C. 
 
 
 
